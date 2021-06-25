@@ -1,0 +1,63 @@
+header {
+    background: #E5E5E5;
+
+ }
+ 
+ #titulo {
+     font-family: 'Times New Roman';
+     font-weight: 700;
+     font-style: normal;
+     line-height: 29.64px;
+     font-size: 35px;
+     text-align: center;
+     color: #005677;
+     background-color: #C4C4C4;
+     
+ }
+
+
+  #batman {
+
+        display:block;
+        margin:auto;
+        
+  }
+ul li {
+    font-style: italic;
+    font-size: 15px;
+    line-height: 84.69%;
+    color: black;
+    font-weight: 700;
+    width: 353px;
+}
+.normal{
+    font-style: normal;
+    font-weight: 400 ;
+}
+.sin-puntos {
+    list-style-type: none;
+}
+  .encabezados {
+    background: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    width: 1041px;
+    height: 30px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 700;
+
+  }
+  footer {
+    background-color:  #005677;
+    color:  #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+  }
+
+  #lol {
+    background-color: black;
+    color: burlywood;
+  }

@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    
+}
+.primera {
+    background-color: #1CD1B0 ;
+    height: 38px;
+    position: relative;
+  
+}
+
+.elemento1 {
+    font-size: 18px;
+    padding: 10px;
+
+}
+.segunda {
+    background-color: #00669F;
+    width: 100%;
+    height: 101px;
+    top: 38px;
+    margin-bottom: 154px;
+
+}
+.elemento2 {
+    font-size: 47px;
+    padding: 28px 868px 26px 28px;
+}
+.batman {
+    border-radius: 50px;
+    position: absolute;
+    left: -5px;
+    z-index: 10;
+}
